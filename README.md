@@ -37,6 +37,5 @@ cd Cerberus-CC-Pro
 # Install required Python packages
 pip install -r requirements.txt
 
-
 # All set
 python3 cerberus_cc.py

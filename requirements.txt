@@ -1,0 +1,8 @@
+aiohttp
+requests
+urllib3
+rich
+prompt_toolkit
+dnspython
+fpdf
+markdown

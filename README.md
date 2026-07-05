@@ -8,7 +8,7 @@ It is designed to **simulate** BIN checking, Luhn validation, and SK (Secret Key
 
 ⚠️ **Disclaimer**  
 This tool is **strictly for authorized testing** on systems you own or have explicit permission to test.  
-The author is **not responsible** for any illegal use.
+The author Sudeepa Wanigarathna is **not responsible** for any illegal use.
 
 ---
 
@@ -39,3 +39,4 @@ pip install -r requirements.txt
 
 # All set
 python3 cerberus_cc.py
+

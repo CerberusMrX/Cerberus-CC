@@ -81,7 +81,7 @@ Its modern terminal interface, high-performance processing, and modular architec
 Clone the repository:
 
 ```bash
-git clone https://github.com/CerberusMrX/Cerberus-CC.git
+git clone https://github.com/CerberusMrXi/Cerberus-CC.git
 ```
 
 Navigate to the project directory:
